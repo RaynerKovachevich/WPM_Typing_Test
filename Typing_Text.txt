@@ -1,0 +1,10 @@
+Variables and Data Types: Variables are containers for storing data. Data types include int (integers), float (decimal numbers), str (text strings), bool (boolean values True/False), etc.
+Strings: Sequence of characters. Can contain letters, numbers, and special characters.
+Conditional Statements: Used to make decisions based on conditions. if, elif, and else are keywords for building conditional statements.
+Loops: Allow executing a block of code multiple times. for loop iterates over a sequence, while loop runs as long as a condition is true.
+Functions: Are reusable blocks of code that perform a specific task
+Input and Output: input() allows the user to input data from the keyboard, while print() displays results on the screen.
+File Handling: Operations for opening, reading, writing, and closing files.
+Classes and Objects: Classes are templates for creating objects, which are instances of a class.
+Inheritance: Allows a class to inherit attributes and methods from another class.
+Modules and Packages: Modules are Python files containing functions and variables, while packages are collections of modules.
